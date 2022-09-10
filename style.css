@@ -1,0 +1,95 @@
+.slider-img img {
+    height: 700px;
+}
+
+.mrm-blue-btn {
+    background: #289BDE;
+    color: #fff;
+    border: none;
+    border: 2px solid #289BDE;
+    border-radius: 8px;
+    padding: 9px 25px;
+}
+
+.carousel-item {
+    background: rgb(0, 0, 0);
+}
+
+.carousel-item img {
+    opacity: 0.5;
+}
+
+.carousel-caption {
+    bottom: 180px;
+    padding-left: 100px;
+    padding-right: 100px;
+}
+
+.carousel-caption h2 {
+    font-size: 65px;
+    font-weight: 700px;
+}
+
+.carousel-caption p {
+    font-weight: 400;
+    font-size: 18px;
+}
+
+.mrm-tech-custom-text h1 {
+    font-weight: 500;
+    font-size: 60px;
+}
+
+.mrm-tech-custom-text p {
+    font-weight: 400;
+    font-size: 18px;
+    color: gray;
+}
+
+.mrm-tech-exp-color {
+    background-color: #F4FAFD;
+}
+
+.mrm-rgstr-btn {
+    background-color: #fff;
+    color: #289BDE;
+    border: none;
+    border-radius: 8px;
+    padding: 20px 40px;
+    font-size: 20px;
+    font-weight: 900px;
+}
+
+.mrm-register-area {
+    background-color: #289BDE;
+}
+
+.mrm-register-area p {
+    color: white;
+    font-weight: 400;
+    font-size: 18px;
+}
+
+.mrm-register-area h1 {
+    color: white;
+    font-weight: 500;
+    font-size: 60px;
+}
+
+.mrm-extra-margin {
+    margin-top: 130px;
+}
+
+.mrm-extra-margin>.g-sm-5 {
+    gap: 60px;
+}
+
+.mrm-student-name h1 {
+    font-weight: 600px;
+    font-size: 20px;
+}
+.mrm-footer-extra-margin{
+    height: 30rem;
+    color: white;
+    background-color: #161616;
+}
